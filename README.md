@@ -13,7 +13,7 @@ No activity tracked
 ```
 <!--END_SECTION:waka-->
 
-[![WakaTime Stats](https://wakatime.com/badge/user/<your-username>.svg)](https://wakatime.com/@<your-username>)
+[![WakaTime Stats](https://wakatime.com/badge/user/<Hieronius>.svg)](https://wakatime.com/@<Hieronius>)
 
 Check out my [WakaTime Dashboard](https://wakatime.com/dashboard) for detailed coding metrics.
 
