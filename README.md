@@ -11,10 +11,10 @@
 ```txt
 No activity tracked
 ```
+<!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/badge/user/<your-username>.svg)](https://wakatime.com/@<your-username>)
 
 Check out my [WakaTime Dashboard](https://wakatime.com/dashboard) for detailed coding metrics.
 
-<!--END_SECTION:waka-->
 
