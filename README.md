@@ -11,6 +11,7 @@
 ```txt
 No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/badge/user/Hieronius.svg)](https://wakatime.com/@Hieronius)
