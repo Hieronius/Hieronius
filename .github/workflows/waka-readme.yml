@@ -35,7 +35,7 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML # Optional, specify languages to ignore; ensure this list is correct and formatted properly
           ### Commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # Optional, customize as needed
-          TARGET_BRANCH: master # Optional, change if your default branch is named differently (e.g., main)
+          TARGET_BRANCH: Main # Optional, change if your default branch is named differently (e.g., main)
           TARGET_PATH: README.md # Optional, specify the path where the stats should be updated; default is README.md
           COMMITTER_NAME: GitHubActionBot # Optional, customize as needed
           COMMITTER_EMAIL: action-bot@github.com # Optional, customize as needed
