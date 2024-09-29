@@ -1,10 +1,10 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
+  # For manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # Runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,32 +12,32 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      # This action name
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master # Do NOT replace with anything else
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: https://github.com/Hieronius/Hieronius # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
-          # you can populate email-id with secrets instead
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Required
+          ### Meta
+          API_BASE_URL: https://wakatime.com/api # Optional, can be omitted if default is fine
+          REPOSITORY: https://github.com/Hieronius/Hieronius # Optional, specify if you want to track a specific repo
+          ### Content
+          SHOW_TITLE: true # Optional
+          SECTION_NAME: waka # Optional, ensure this is what you want to display in your README
+          BLOCKS: '' # Optional, specify blocks if needed; currently set to empty string to avoid syntax errors
+          CODE_LANG: rust # Optional, specify the language you want to track; remove if not needed
+          TIME_RANGE: all_time # Optional, can be 'last_7_days', 'last_30_days', etc.
+          LANG_COUNT: 10 # Optional, specify how many languages to show; adjust as needed
+          SHOW_TIME: true # Optional
+          SHOW_TOTAL: true # Optional
+          SHOW_MASKED_TIME: false # Optional
+          STOP_AT_OTHER: true # Optional, set to false if you want to include other languages not specified in IGNORED_LANGUAGES
+          IGNORED_LANGUAGES: YAML JSON TOML # Optional, specify languages to ignore; ensure this list is correct and formatted properly
+          ### Commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # Optional, customize as needed
+          TARGET_BRANCH: master # Optional, change if your default branch is named differently (e.g., main)
+          TARGET_PATH: README.md # Optional, specify the path where the stats should be updated; default is README.md
+          COMMITTER_NAME: GitHubActionBot # Optional, customize as needed
+          COMMITTER_EMAIL: action-bot@github.com # Optional, customize as needed
+          AUTHOR_NAME: YOUR_NAME # Optional, replace with your name or leave it out if not needed
+          AUTHOR_EMAIL: YOUR@EMAIL.com # Optional, replace with your email or use secrets for privacy
