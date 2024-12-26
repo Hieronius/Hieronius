@@ -1,4 +1,4 @@
-![iOS Developer](https://github.com/user-attachments/assets/755d292f-0aeb-4083-b437-d3a394f04d96)
+![Arsenty Halimovsky](https://github.com/user-attachments/assets/233e8089-ca7b-42a4-a13f-a5fd3ced60c1)
 
 ### :fire: My Stats :
 
