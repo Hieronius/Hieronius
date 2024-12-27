@@ -38,7 +38,12 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 - [🌙 MoonShotSwiftUI](https://github.com/Hieronius/MoonshotSwiftUI): App-gallery of space missions with participants made with SwiftUI and MVVM architecture
 - [😴 BetterSleepMVI](https://github.com/Hieronius/BetterSleepMVI) - An app to track duration of your sleep and to advise how to sleep and recover better made with SwiftUI and MVI architecture
 - [✔️ BlackToDoList](https://github.com/Hieronius/BlackToDoList) - Small App with implementation of User Authentification(Firebase), Custom Apple Lock Screen (GCD + UIKit Animation), Keychain and LocalAuthorisation to store sensitive passwords and Face/Touch ID data), Custom Spinner to display is there an active internet connection or not (AffineTransform + NetworkMonitor)
+- [🏟 StadiumApp](https://github.com/Hieronius/StadiumApp) - Mobile application that allows you to search for and book sports facilities for various sports in your city made with UIKit, MapKit, CoreLocation and IQKeyboardManagerSwift
+- [🗞 NewsApp] (https://github.com/Hieronius/NewsApp) - A small application that uses a free API to access the latest news related to the company Apple made with UIKit, URLSession, GCD and Autolayout
+- [🍕 DoDoProject] (https://github.com/Hieronius/DoDoProject) - A small project to replicate Menu screen with complex UI which containts multiple Table/Collection views with custom Cells and a Custom TabBar made with UIKit, SnapKit, Delegation and Facade Design Pattern
 - [🚨 CustomAlertController](https://github.com/Hieronius/CustomAlertController) - Custom Alert Controller with Activity Indicator that displays how much time need to end the task made with UIKit, SnapKit and Delegation Design Pattern
+- [🐈 Sber21CatCustom](https://github.com/Hieronius/sber21CatCustom) - Custom implementation of the terminal program "cat" with C programming language
+- [⚔️ Paladin_Dungeon](https://github.com/Hieronius/Paladin_Dungeon) - A little turn-based game where you can fight random monsters, use magic, gain experience and move through the deeps of the dungeon made with C programming language
 
 ## :fire:My GitHub Stats :
 
