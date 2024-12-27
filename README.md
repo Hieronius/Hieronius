@@ -11,6 +11,8 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 - 🎨 I enjoy crafting beautiful user interfaces and focusing on user experience.
 - 💬 Always open to collaborating on exciting projects or discussing the latest trends in mobile development and learning methods.
 
+## 🛠 Tech Stack
+
 - **Languages**: Swift, C
 - **Frameworks**: UIKit, SwiftUI
 - **Persistence**: CoreData, Realm, UserDefaults
@@ -21,9 +23,9 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 
 ## 🌟 Projects
 
-- [ToDoJsonVIPER]([link-to-your-project](https://github.com/Hieronius/ToDoJsonVIPER)): A small app to manage your daily tasks with UIKit, CoreData, UserDefaults, XCTest, VIPER architecture, Dependency Injection, URL Session, UICollectionView with DiffableDataSource and GCD.
-- [InfinityFeed]([link-to-your-project](https://github.com/Hieronius/InfinityFeed)): An app to replicate an infinite feed like such as you can see in popular social media apps but for Anime topic. Made with UIKit, UICollectionView with CompositionalLayout, URLSession, Realm, XCTest and async@await. 
-- [DailyPlanner]([link-to-your-project](https://github.com/Hieronius/DailyPlanner)): An app to handle your daily tasks with CustomCalendar, URLSession, Realm, XCTest, UITableView with DiffableDataSource
+- [ToDoJsonVIPER](https://github.com/Hieronius/ToDoJsonVIPER): A small app to manage your daily tasks with UIKit, CoreData, UserDefaults, XCTest, VIPER architecture, Dependency Injection, URL Session, UICollectionView with DiffableDataSource and GCD.
+- [InfinityFeed](https://github.com/Hieronius/InfinityFeed): An app to replicate an infinite feed like such as you can see in popular social media apps but for Anime topic. Made with UIKit, UICollectionView with CompositionalLayout, URLSession, Realm, XCTest and async@await. 
+- [DailyPlanner](https://github.com/Hieronius/DailyPlanner): An app to handle your daily tasks with CustomCalendar, URLSession, Realm, XCTest, UITableView with DiffableDataSource
 
 ## :fire: My GitHub Stats :
 
