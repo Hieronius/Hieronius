@@ -32,9 +32,13 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 
 ## 🌟Projects
 
-- [ToDoJsonVIPER](https://github.com/Hieronius/ToDoJsonVIPER): A small app to manage your daily tasks with UIKit, CoreData, UserDefaults, XCTest, VIPER architecture, Dependency Injection, URL Session, UICollectionView with DiffableDataSource and GCD.
-- [InfinityFeed](https://github.com/Hieronius/InfinityFeed): An app to replicate an infinite feed like such as you can see in popular social media apps but for Anime topic. Made with UIKit, UICollectionView with CompositionalLayout, URLSession, Realm, XCTest and async@await. 
-- [DailyPlanner](https://github.com/Hieronius/DailyPlanner): An app to handle your daily tasks with CustomCalendar, URLSession, Realm, XCTest, UITableView with DiffableDataSource
+- [📝 ToDoJsonVIPER](https://github.com/Hieronius/ToDoJsonVIPER): A small app to manage your daily tasks with UIKit, CoreData, UserDefaults, XCTest, VIPER architecture, Dependency Injection, URL Session, UICollectionView with DiffableDataSource and GCD.
+- [📜 InfinityFeed](https://github.com/Hieronius/InfinityFeed): An app to replicate an infinite feed like such as you can see in popular social media apps but for Anime topic. Made with UIKit, UICollectionView with CompositionalLayout, URLSession, Realm, XCTest and async@await. 
+- [📝 DailyPlanner](https://github.com/Hieronius/DailyPlanner): An app to handle your daily tasks with CustomCalendar, URLSession, Realm, XCTest, UITableView with DiffableDataSource
+- [🌙 MoonShotSwiftUI](https://github.com/Hieronius/MoonshotSwiftUI): App-gallery of space missions with participants made with SwiftUI and MVVM architecture
+- [😴 BetterSleepMVI](https://github.com/Hieronius/BetterSleepMVI) - An app to track duration of your sleep and to advise how to sleep and recover better made with SwiftUI and MVI architecture
+- [✔️ BlackToDoList](https://github.com/Hieronius/BlackToDoList) - Small App with implementation of User Authentification(Firebase), Custom Apple Lock Screen (GCD + UIKit Animation), Keychain and LocalAuthorisation to store sensitive passwords and Face/Touch ID data), Custom Spinner to display is there an active internet connection or not (AffineTransform + NetworkMonitor)
+- [🚨 CustomAlertController](https://github.com/Hieronius/CustomAlertController) - Custom Alert Controller with Activity Indicator that displays how much time need to end the task made with UIKit, SnapKit and Delegation Design Pattern
 
 ## :fire:My GitHub Stats :
 
