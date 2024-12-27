@@ -4,6 +4,14 @@
 
 I'm an enthusiastic iOS developer with a passion for creating intuitive and engaging mobile applications. With a strong foundation in Swift. I love transforming ideas into reality through code. My goal is to build apps that not only meet user needs but also provide delightful experiences. Also i’m interested to learn more about Swift under the hood and to create the best approach to learn problem solving in programming for total beginners.
 
+# 🪧Navigation
+
+- [Tech Stack](#Tech-Stack)
+- [Projects](#Projects)
+- [GitHub Stats](#My-GitHub-Stats)
+- [LeetCode Stats](#My-LeetCode-Stats)
+- [Contacts](#Get-in-Touch)
+
 ## 🚀 About Me
 
 - 🌱 Currently learning more about SwiftUI and Swift internals to enhance my app development skills.
