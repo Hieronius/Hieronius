@@ -8,7 +8,7 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 
 - [About Me](#About-me)
 - [Tech Stack](#Tech-Stack)
-- [Projects](#⭐️_Projects)
+- [Projects](#🌟)
 - [GitHub Stats](#My-GitHub-Stats)
 - [LeetCode Stats](#My-LeetCode-Stats)
 - [Contacts](#Get-in-Touch)
