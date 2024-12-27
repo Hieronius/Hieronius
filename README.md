@@ -30,7 +30,7 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 - **Tools**: Xcode, Git, Firebase
 - **App Design**: Figma, Pixso, 3 color rule, Apple Human Interface Guidelines
 
-## 🌟 Projects
+## 🌟Projects
 
 - [ToDoJsonVIPER](https://github.com/Hieronius/ToDoJsonVIPER): A small app to manage your daily tasks with UIKit, CoreData, UserDefaults, XCTest, VIPER architecture, Dependency Injection, URL Session, UICollectionView with DiffableDataSource and GCD.
 - [InfinityFeed](https://github.com/Hieronius/InfinityFeed): An app to replicate an infinite feed like such as you can see in popular social media apps but for Anime topic. Made with UIKit, UICollectionView with CompositionalLayout, URLSession, Realm, XCTest and async@await. 
