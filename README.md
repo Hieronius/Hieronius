@@ -53,7 +53,7 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 
 ## :fire:My LeetCode Stats :
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Hieronius?theme=dark&submissions=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Hieronius?theme=dark&ext=heatmap)
 
 ## 📫Get in Touch
 
