@@ -25,7 +25,7 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 - **Languages**: Swift, C
 - **Frameworks**: UIKit, SwiftUI
 - **Layout**: Autolayout, SnapKit, Storyboard, XIB
-- **Architecturer**: MVC, MVI, MVVM, VIPER, Clean Swift
+- **Architecture**: MVC, MVI, MVVM, VIPER, Clean Swift
 - **Persistence**: CoreData, Realm, UserDefaults
 - **Network**: REST API, JSON, URLSession, Alamofire
 - **Security**: Keychain, LocalAuthorisation
@@ -40,7 +40,7 @@ I'm an enthusiastic iOS developer with a passion for creating intuitive and enga
 - **Git**: GitHub, GitLub, BitBucket, Fork
 - **CI/CD**: Jenkins
 - **Team Work**: Agile, Jira, Trello, Miro, SwiftLint
-- **App Design**: Figma, Pixso, 3 color rule, Apple Human Interface Guidelines
+- **Design**: Figma, Pixso, 3 color rule, Apple Human Interface Guidelines
 
 ## 🌟Projects
 
